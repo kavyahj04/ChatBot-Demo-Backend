@@ -1,0 +1,79 @@
+{
+  "greetings": [
+    "Hello! Welcome to the study. How are you feeling today?",
+    "Hi there! I'm glad you're here. What's on your mind?",
+    "Hey! Welcome. I'm here to chat with you today."
+  ],
+  "how_are_you": [
+    "I'm doing well, thank you for asking! How about you?",
+    "I'm great! Ready to have a good conversation. How are you?",
+    "Doing wonderful! What would you like to talk about?"
+  ],
+  "about_study": [
+    "This study explores how AI chatbots can support people in their daily decision making.",
+    "We're researching how people interact with AI assistants in different contexts.",
+    "This is a research study about human-AI interaction and communication patterns."
+  ],
+  "stress": [
+    "I hear you. Stress can be really overwhelming sometimes. Would you like to talk about what's going on?",
+    "It sounds like you're going through a tough time. I'm here to listen.",
+    "That sounds really challenging. What do you think is contributing most to your stress?"
+  ],
+  "anxiety": [
+    "Anxiety can feel really difficult to manage. Have you tried any coping strategies that help?",
+    "I understand. Anxiety affects so many people. What does it feel like for you?",
+    "It takes courage to talk about anxiety. I'm here to support you through this conversation."
+  ],
+  "sad": [
+    "I'm sorry to hear you're feeling sad. Do you want to share what's been going on?",
+    "It's okay to feel sad sometimes. I'm here to listen without judgment.",
+    "Thank you for sharing that with me. What do you think triggered these feelings?"
+  ],
+  "happy": [
+    "That's wonderful to hear! What's been making you feel happy lately?",
+    "I love hearing that! Happiness is so important. Tell me more!",
+    "That's great! Positive emotions are so valuable. What's been going well?"
+  ],
+  "help": [
+    "Of course! I'm here to help. What do you need?",
+    "Absolutely, I'd love to help. What's on your mind?",
+    "Sure thing! Tell me what you're looking for and we'll figure it out together."
+  ],
+  "advice": [
+    "That's a great question. I think the most important thing is to trust your instincts.",
+    "My advice would be to take it one step at a time and be kind to yourself.",
+    "I'd suggest starting small and building from there. What specific area do you need advice on?"
+  ],
+  "work": [
+    "Work can be really demanding. How are you managing your workload?",
+    "Work-life balance is so important. Are you finding enough time for yourself?",
+    "That sounds like a lot of responsibility. What aspect of work is most challenging right now?"
+  ],
+  "relationships": [
+    "Relationships can be complex. What's been happening?",
+    "It sounds like this relationship is important to you. Tell me more.",
+    "Navigating relationships takes a lot of emotional energy. How are you coping?"
+  ],
+  "sleep": [
+    "Sleep is so crucial for wellbeing. Are you getting enough rest?",
+    "Poor sleep can really affect everything else. Have you noticed any patterns?",
+    "That's concerning. Have you tried any sleep hygiene techniques?"
+  ],
+  "thanks": [
+    "You're very welcome! I'm happy I could help.",
+    "Of course! That's what I'm here for.",
+    "Anytime! Feel free to share anything else on your mind."
+  ],
+  "bye": [
+    "Thank you for chatting with me today. Take care of yourself!",
+    "It was great talking with you. Wishing you all the best!",
+    "Goodbye! Remember to be kind to yourself. See you next time!"
+  ],
+  "default": [
+    "That's really interesting. Can you tell me more about that?",
+    "I appreciate you sharing that with me. How does that make you feel?",
+    "Thank you for opening up. What else is on your mind?",
+    "I'm listening. Please continue, I want to understand better.",
+    "That's a thoughtful point. What do you think about it yourself?"
+  ]
+}
